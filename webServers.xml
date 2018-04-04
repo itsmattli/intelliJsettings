@@ -1,0 +1,11 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4ee64a03-e981-48b7-9c3e-1a63d8a2a88b" name="dev.c21-matthew.rewdev.com" url="http://dev.c21-matthew.rewdev.com">
+        <fileTransfer host="dev.c21-matthew.rewdev.com" port="22" privateKey="$USER_HOME$/Documents/rew_mli_ssh/rew_mli" rootFolder="/var/www/vhosts/dev.c21-matthew.rewdev.com/app" accessType="SFTP" keyPair="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
