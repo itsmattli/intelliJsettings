@@ -41,4 +41,5 @@
       <option name="Twig" value="true" />
     </context>
   </template>
+  <template name="/* eslint-disable */" value="$SELECTION$/* eslint-disable */" toReformat="false" toShortenFQNames="true" />
 </templateSet>
